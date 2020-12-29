@@ -1,6 +1,6 @@
-## Databricks
+## Databricks Workspace
 
-Anotações da documentação do Databricks. Disponível em [Databricks Workspace guide](https://docs.databricks.com/workspace-index.html).
+Anotações feitas a partir da documentação oficial do Azure Databricks. Disponível em [Databricks Workspace user](https://docs.databricks.com/getting-started/quick-start.html).
 
 O Databricks oferece dois ambientes para o desenvolvimento de aplicativos com uso intensivo de dados: **Databricks SQL Analytics** e **Databricks Workspace**.
 
